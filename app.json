@@ -1,28 +1,12 @@
 {
   "expo": {
-    "name": "CalcGameScore",
-    "slug": "CalcGameScore",
-    "platforms": [
-      "ios",
-      "android",
-      "web"
-    ],
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "updates": {
-      "fallbackToCacheTimeout": 0
-    },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
-    "ios": {
-      "supportsTablet": true
-    }
+   "name": "ScoreCalc",
+   "icon": "./icons/app.png",
+   "version": "1.0.0",
+   "slug": "your-app-slug",
+   "sdkVersion": "37.0.0",
+   "android": {
+     "package": "com.quizehome.sergreactapp"
+   }
   }
 }
